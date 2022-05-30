@@ -4,7 +4,7 @@ Paper: https://assets.researchsquare.com/files/rs-994193/v1_covered.pdf
 
 This is the official repository for MuSus-100 QSM atlas. The repository includes multi-modal atlases in MNI space, along with the parcellation map of fine-grained deep brain nuclei and thalamus subregions. All files are in NIfTI format. 
 
-If you find this work helpful in your research, please cite the original publication in the follows. 
+If you find this work helpful in your research, please cite the original publication (preprint version) in the follows. 
 
 ```
 @article{he2021quantitative,
