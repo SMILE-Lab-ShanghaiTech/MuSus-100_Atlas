@@ -2,9 +2,9 @@
 
 Paper: https://assets.researchsquare.com/files/rs-994193/v1_covered.pdf
 
-This is the official repository for MuSus-100 QSM atlas. The repository includes multi-modal atlases in MNI space, along with the parcellation map of fine-grained deep brain nuclei and thalamus subregions. All files are in NIfTI format. 
+This is the official repository for the MuSus-100 QSM atlas. The repository includes multi-modal atlases in MNI space, along with the parcellation map of fine-grained deep brain nuclei and thalamus subregions. All files are in NIfTI format. 
 
-If you find this work helpful in your research, please cite the original publication (preprint version) in the follows. 
+If you find this work helpful in your research, please cite the original publication (preprint version) as follows. 
 
 ```
 @article{he2021quantitative,
@@ -15,15 +15,15 @@ If you find this work helpful in your research, please cite the original publica
 ```
 
 ## File structure
-The atlas directory includes the MNI-spaced T1w, QSM and hybrid atlases. The atlases are aligned to ICBM-152 2009c nonlinear atlas. 
+The directory includes the MNI-spaced T1w, QSM, and hybrid atlases. The atlases are aligned to ICBM-152 2009c nonlinear atlas. 
 
-The label directory includes the parcellation maps formated in NIfTI, including the DBN (deep brain nuclei only), thalamus (thalamus subregions only) and the mixed (both deep brain nuclei and thalamus subregions). The corresponding label description is stored in the txt file formatted as the ITK-SNAP label description. 
+The label directory includes the parcellation maps formatted in NIfTI, including the DBN (deep brain nuclei only), thalamus (thalamus subregions only), and the mixed (both deep brain nuclei and thalamus subregions). The corresponding label description is stored in the txt file formatted as the ITK-SNAP label description. 
 
 ## Usage
-You may view the atlas and parcellation map by [ITK-SNAP](http://www.itksnap.org/) (or any other medical image viewer as you like). Firstly load the atlas and attach the label file as the `Segmentation` (you may directly drag the label file to the ITK-SNAP window showing an atlas and select `Load as Segmentation`). 
+You may view the atlas and parcellation map by [ITK-SNAP](http://www.itksnap.org/) (or any other medical image viewer as you like). To view the atlas and label, open the atlas file in ITK-SNAP first and attach the label file as the `Segmentation` (you may directly drag the label file to the ITK-SNAP window showing an atlas and select `Load as Segmentation`). 
 
-The label description files (txt files) can either be imported to ITK-SNAP and be directly viewed. 
-To import a label description file into ITK-SNAP, click the `Segmentation` - `Import Label Descriptions...` and select the corresponding label file. You may load the segmentation at first before you import the description file. 
+The label description files (txt files) can either be imported to ITK-SNAP or be directly viewed. 
+To import a label description file into ITK-SNAP, click the `Segmentation` - `Import Label Descriptions...` and select the corresponding label file. You may load the segmentation first before you import the description file. 
 To directly view a label description file, directly open the file with any text editor. The meaning of each column has been described in the file:
 
 ```
