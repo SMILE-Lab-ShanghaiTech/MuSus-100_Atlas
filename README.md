@@ -1,6 +1,6 @@
 # MuSus-100 Atlas
 
-![cover](https://user-images.githubusercontent.com/22649869/185288386-4b607da7-2ce6-48ce-a051-cc93b652bbef.png)
+![cover](https://user-images.githubusercontent.com/22649869/185288716-5b80b58d-4f77-499a-bcfc-ddab0468004b.png)
 
 Paper: https://assets.researchsquare.com/files/rs-994193/v1_covered.pdf
 
