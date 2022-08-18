@@ -15,9 +15,9 @@ If you find this work helpful in your research, please cite the original publica
 ```
 
 ## File structure
-The directory includes the MNI-spaced T1w, QSM, and hybrid atlases. The atlases are aligned to ICBM-152 2009c nonlinear atlas. 
+The `atlas` directory includes the MNI-spaced T1w, QSM, and hybrid atlases. The atlases are aligned to ICBM-152 2009c nonlinear atlas. 
 
-The label directory includes the parcellation maps formatted in NIfTI, including the DBN (deep brain nuclei only), thalamus (thalamus subregions only), and the mixed (both deep brain nuclei and thalamus subregions). The corresponding label description is stored in the txt file formatted as the ITK-SNAP label description. 
+The `label` directory includes the parcellation maps formatted in NIfTI, including the DBN (deep brain nuclei only), thalamus (thalamus subregions only), and the mixed (both deep brain nuclei and thalamus subregions). The corresponding label description is stored in the txt file formatted as the ITK-SNAP label description. 
 
 ## Usage
 You may view the atlas and parcellation map by [ITK-SNAP](http://www.itksnap.org/) (or any other medical image viewer as you like). To view the atlas and label, open the atlas file in ITK-SNAP first and attach the label file as the `Segmentation` (you may directly drag the label file to the ITK-SNAP window showing an atlas and select `Load as Segmentation`). 
