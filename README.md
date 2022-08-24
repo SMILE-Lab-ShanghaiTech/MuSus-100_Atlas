@@ -39,3 +39,7 @@ To directly view a label description file, directly open the file with any text 
 #    IDX:   Label mesh visibility (0 or 1)
 #  LABEL:   Label description 
 ```
+
+## Disclaimer
+
+Resources within this repo, including the atlas, label image files and label description files, is authorized for research use only. No resources in this repo shall be used for commercial or business activity. 
