@@ -14,7 +14,7 @@ This is the official repository for the MuSus-100 QSM atlas. The repository incl
 
 Resources within this repo, including the atlas, label image files and label description files, is authorized for research use only. No resources in this repo shall be used for commercial or business activity. 
 
-If you find this work helpful in your research, please cite the original publication (preprint version) using the following BibTex entry. 
+If you find this work helpful in your research, please cite the original publication published on Brain Structure and Function using the following BibTex entry. 
 
 ```
 @article{he2022quantitative,
