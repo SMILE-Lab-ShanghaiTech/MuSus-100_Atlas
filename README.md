@@ -3,7 +3,7 @@
 ![cover](https://user-images.githubusercontent.com/22649869/185288716-5b80b58d-4f77-499a-bcfc-ddab0468004b.png)
 
 ## ❗️Important Update
-Some important label issue affecting L-Cau, R-Cau, R-GPi and R-GPe that will be lead to wrong result has fixed in the new release (Nov 9)! Please re-perform your experiment using the latest release if you have queried affected nuclei! 
+Some important label issue affecting L-Cau, R-Cau, R-GPi and R-GPe that will be lead to wrong result has fixed in the latest release (Nov 9, 2022)! Please re-perform your experiment using the latest release if you have queried affected nuclei! 
 - - - -
 
 Paper: https://link.springer.com/article/10.1007/s00429-022-02547-1
